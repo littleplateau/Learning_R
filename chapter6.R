@@ -18,5 +18,3 @@ c = c(floor(rnorm(10, 0,3)), Inf)
 c
 sapply(c, num_judge)
 
-#
-
