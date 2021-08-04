@@ -26,3 +26,4 @@ celery = 1:7
 eggplant = as.factor(LETTERS[1:7])
 potato = data.frame(cauliflower,celery,eggplant)
 ls(pattern = "a")
+
